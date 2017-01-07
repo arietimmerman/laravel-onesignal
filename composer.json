@@ -1,13 +1,12 @@
 {
-  "name": "berkayk/onesignal-laravel",
+  "name": "arietimmerman/onesignal-laravel",
   "description": "OneSignal Push Wrapper Laravel",
   "keywords": ["onesignal", "webpush", "push", "laravel", "laravel 5"],
   "type": "library",
   "require": {
     "php": ">=5.4.0",
     "guzzlehttp/guzzle": "^6.2",
-    "illuminate/support": "4.*|5.*",
-    "symfony/psr-http-message-bridge": "^0.2.0"
+    "illuminate/support": "4.*|5.*"
   },
   "require-dev": {
     "vlucas/phpdotenv": "^2.2"
@@ -27,6 +26,10 @@
     {
       "name": "Maykonn Welington Candido",
       "email": "maykonn@outlook.com"
+    },
+    {
+      "name": "Arie Timmerman",
+      "email": "arietimmerman@gmail.com"
     }
   ],
   "minimum-stability": "dev",
